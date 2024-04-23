@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Airbnb Rental Portfolio</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+    <header class="bg-light p-3 mb-2 text-center">
+        <h1>Welcome to Blue Orchid Studio!</h1>
+        <p>Your serene escape close to the metro and just minutes from the city center.</p>
+        <!-- Airbnb Button -->
+        <a href="https://www.airbnb.com/rooms/1128207241940022684?guests=1&adults=1&s=67&unique_share_id=e1a3bdc4-8a9c-4f5d-b6e5-96b42c269bbd" class="btn btn-primary btn-lg" role="button" target="_blank">
+            Book on Airbnb
+        </a>
+
+        <!-- Booking Button -->
+        <a href="#" class="btn btn-success btn-lg" role="button" target="_blank">
+            Book on Booking.com
+        </a>
+    </header>
+
+    <div id="rentalCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="10000">
+        <div class="carousel-inner" id="carouselItems"></div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#rentalCarousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#rentalCarousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="scripts.js"></script>
+</body>
+</html>

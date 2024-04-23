@@ -1,0 +1,33 @@
+.carousel-item img {
+    height: 100vh; /* Set the height to occupy the full viewport height on smaller screens */
+    width: auto;  /* Set width to auto to maintain aspect ratio */
+    max-width: none; /* Override the default to allow natural width */
+    object-fit: cover; /* Cover the viewable area completely */
+    object-position: center; /* Center the image in the display area */
+}
+
+/* Media query for larger screens */
+@media (min-width: 992px) { /* This typically targets desktop screens */
+    .carousel-item img {
+        height: auto; /* Allow natural height */
+        max-height: 90vh; /* Set a max height to prevent overly tall images */
+        width: 100%; /* Full width to maintain aspect ratio while obeying max height */
+    }
+}
+
+header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2rem; /* Increase font size for the title */
+    color: #333;
+    margin-bottom: 0.5rem;
+}
+
+header p {
+    font-size: 1.25rem;
+    color: #666;
+}
