@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Gallery on My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Hugo Gallery on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>me@mikirov.xyz (Mihail Kirov)</managingEditor>
+    <webMaster>me@mikirov.xyz (Mihail Kirov)</webMaster>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blue Orchid</title>
+      <link>https://example.org/blue-orchid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>me@mikirov.xyz (Mihail Kirov)</author>
+      <guid>https://example.org/blue-orchid/</guid><media:content url="https://example.org/blue-orchid/IMG_2919_hu17174558624532292801.webp" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/blue-orchid/IMG_2919_hu17174558624532292801.webp&quot; /&gt;
+          &lt;p&gt;Welcome to your serene escape at &#34;Blue Orchid Studio&#34;! Nestled close to the metro, our cozy apartment is just 30 minutes from the city center and 15 minutes away from the airport, offering the perfect blend of tranquility and accessibility. Indulge in the comfort of a plush king-size bed, enjoy the convenience of a fully-equipped kitchen, and unwind in a bathroom filled with modern amenities. With high-speed WiFi and a charming dining area, your stay promises relaxation and connectivity.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Green Orchid</title>
+      <link>https://example.org/green-orchid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>me@mikirov.xyz (Mihail Kirov)</author>
+      <guid>https://example.org/green-orchid/</guid><media:content url="https://example.org/green-orchid/IMG_5449_hu7021337040214623773.webp" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/green-orchid/IMG_5449_hu7021337040214623773.webp&quot; /&gt;
+          &lt;p&gt;Relax with the whole family at this peaceful place to stay.Experience comfort and nature at our Green Orchid retreat, ideally located next to the lift and offering stunning mountain views. This charming space features a lush green interior, highlighted by a beautiful orchid. Perfect for a relaxing getaway, it combines convenience and scenic beauty in one. Enjoy easy access to the lift and breathtaking views right from your window. A tranquil, green haven awaits you!&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

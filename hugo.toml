@@ -1,0 +1,43 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy", "term"]
+enableRobotsTXT = true
+publishDir = "docs"
+
+theme = 'gallery'
+
+[params]
+  defaultTheme = "dark"
+  description = "Orchid Suites"
+  title = "Orchid Suites"
+  [params.author]
+    email = "me@mikirov.xyz"
+    name = "Mihail Kirov"
+  [params.socialIcons]
+    email = "mailto:me@mikirov.xyz"
+    airbnb = "mailto:me@mikirov.xyz"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+[imaging]
+  quality = 75
+  resampleFilter = "CatmullRom"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription|Orientation"
+
+[module]
+  [module.hugoVersion]
+    min = "0.121.2"
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
+
+[services]
+  [services.rss]
+    limit = 100
