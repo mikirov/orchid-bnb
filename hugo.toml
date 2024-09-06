@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://mikirov.github.io/orchid-bnb/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Orchid Suites'
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "term"]
 enableRobotsTXT = true
@@ -17,7 +17,6 @@ theme = 'gallery'
     name = "Mihail Kirov"
   [params.socialIcons]
     email = "mailto:me@mikirov.xyz"
-    airbnb = "mailto:me@mikirov.xyz"
 
 [outputs]
   home = ["HTML", "RSS"]

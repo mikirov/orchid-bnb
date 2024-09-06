@@ -8,3 +8,6 @@ menu:
 ---
 
 Welcome to Orchid Suites, where comfort meets elegance. Nestled in prime locations, our thoughtfully designed Airbnb suites provide the perfect retreat for travelers seeking a home away from home. Each suite is carefully curated with modern amenities, stylish décor, and a touch of luxury to ensure a memorable stay. Whether you're visiting for business or leisure, Orchid Suites offers a serene and inviting atmosphere, promising a unique and personalized experience for every guest. Let us be your oasis of calm and relaxation as you explore the beauty of your destination.
+
+- [Book now  Blue Orchid on Airbnb](https://www.airbnb.com/rooms/1128207241940022684)
+- [Book now  Green Orchid on Airbnb](https://www.airbnb.com/rooms/1202753608482215520)

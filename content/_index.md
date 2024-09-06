@@ -1,8 +1,8 @@
 ---
-description: An example site for hugo-theme-gallery. Images from Unsplash.
+description: Orchid Suites – Your elegant retreat, where comfort and style meet for a memorable stay.
 #lastmod: 2023-07-05
-title: Hugo Gallery
-featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
+title: Orchid Suites
+# featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
 menus:
   main:
