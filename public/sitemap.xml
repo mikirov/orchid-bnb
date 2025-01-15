@@ -2,15 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/blue-orchid/</loc>
+    <loc>https://blueorchidsuite.info/blue-orchid/</loc>
   </url><url>
-    <loc>https://example.org/green-orchid/</loc>
+    <loc>https://blueorchidsuite.info/magnolia/</loc>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://blueorchidsuite.info/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/about/</loc>
-  </url><url>
-    <loc>https://example.org/imprint/</loc>
+    <loc>https://blueorchidsuite.info/about/</loc>
   </url>
 </urlset>
