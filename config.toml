@@ -19,8 +19,8 @@ theme = 'gallery'
     email = "me@mikirov.xyz"
     name = "Mihail Kirov"
   [params.socialIcons]
-    email = "mailto:veliosbg@gmail.com"
     phone = "tel:+359877812720"
+    email = "mailto:veliosbg@gmail.com"
 
 [outputs]
   home = ["HTML", "RSS"]
@@ -38,8 +38,6 @@ theme = 'gallery'
 [module]
   [module.hugoVersion]
     min = "0.121.2"
-  [[module.imports]]
-    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
 
 [services]
   [services.rss]

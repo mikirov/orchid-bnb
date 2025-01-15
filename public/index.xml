@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Orchid Suites</title>
-    <link>https://blueorchidsuite.info/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Orchid Suites</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>me@mikirov.xyz (Mihail Kirov)</managingEditor>
     <webMaster>me@mikirov.xyz (Mihail Kirov)</webMaster>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://blueorchidsuite.info/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blue Orchid</title>
-      <link>https://blueorchidsuite.info/blue-orchid/</link>
+      <link>http://localhost:1313/blue-orchid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>me@mikirov.xyz (Mihail Kirov)</author>
-      <guid>https://blueorchidsuite.info/blue-orchid/</guid><media:content url="https://blueorchidsuite.info/blue-orchid/IMG_2919_hu17174558624532292801.webp" type="image/jpeg"/>
+      <guid>http://localhost:1313/blue-orchid/</guid><media:content url="http://localhost:1313/blue-orchid/IMG_2919_hu17174558624532292801.webp" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://blueorchidsuite.info/blue-orchid/IMG_2919_hu17174558624532292801.webp&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/blue-orchid/IMG_2919_hu17174558624532292801.webp&quot; /&gt;
           &lt;p&gt;Welcome to your serene escape at &#34;Blue Orchid Studio&#34;! Nestled close to the metro, our cozy apartment is just 30 minutes from the city center and 15 minutes away from the airport, offering the perfect blend of tranquility and accessibility. Indulge in the comfort of a plush king-size bed, enjoy the convenience of a fully-equipped kitchen, and unwind in a bathroom filled with modern amenities. With high-speed WiFi and a charming dining area, your stay promises relaxation and connectivity.&lt;/p&gt;
         </description></item>
     <item>
       <title>Magnolia City View Studio</title>
-      <link>https://blueorchidsuite.info/magnolia/</link>
+      <link>http://localhost:1313/magnolia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>me@mikirov.xyz (Mihail Kirov)</author>
-      <guid>https://blueorchidsuite.info/magnolia/</guid><media:content url="https://blueorchidsuite.info/magnolia/1_hu16330944059228749655.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/magnolia/</guid><media:content url="http://localhost:1313/magnolia/1_hu16330944059228749655.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://blueorchidsuite.info/magnolia/1_hu16330944059228749655.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/magnolia/1_hu16330944059228749655.jpg&quot; /&gt;
           &lt;p&gt;Welcome to Magnolia City View Studio, a cozy top-floor retreat with stunning panoramic city views. Perfect for up to 4 guests, this modern studio is conveniently located near the airport and just steps from the subway, offering easy 20-minute access to the city center. Enjoy a comfortable stay with all the essentials, whether you’re here for business or leisure. Relax above the city and take in the sights from this serene and well-connected urban escape.&lt;/p&gt;
         </description></item>
   </channel>
