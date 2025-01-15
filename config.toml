@@ -8,8 +8,10 @@ disableKinds = ["taxonomy", "term"]
 enableRobotsTXT = true
 enableEmoji = true
 publishDir = "public"
+resourceDir = "public/resources"
 
 theme = 'gallery'
+
 
 [params]
   defaultTheme = "dark"
