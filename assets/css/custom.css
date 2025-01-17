@@ -1,4 +1,4 @@
-:root {
+/* :root {
   --surface-1-light: #ffffff;
   --surface-2-light: #dee2e6;
   --text-1-light: #030507;
@@ -7,4 +7,15 @@
   --surface-2-dark: #495057;
   --text-1-dark: #f8f9fa;
   --text-2-dark: #868e96;
+} */
+
+:root {
+  --surface-1-light: #070606;
+  --surface-2-light: #161d1a;
+  --text-1-light: #fcfafa;
+  --text-2-light: #797169;
+  --surface-1-dark: #e9e6e2;
+  --surface-2-dark: #bab0a8;
+  --text-1-dark: #070606;
+  --text-2-dark: #797169;
 }

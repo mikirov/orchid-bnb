@@ -10,6 +10,17 @@
       {{ .Site.Title }}
     </a>
   {{ end }}
+
+  <!-- Light/Dark Mode Toggle -->
+  <button class="btn btn-square" id="theme-toggle" title="Toggle Light/Dark Mode">
+    <svg id="theme-icon-light" class="hidden" width="24" height="24" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <path d="M12 4.75a.75.75 0 0 1 .75-.75h8a.75.75 0 0 1 0 1.5h-8a.75.75 0 0 1-.75-.75ZM12 19.25a.75.75 0 0 1 .75-.75h8a.75.75 0 0 1 0 1.5h-8a.75.75 0 0 1-.75-.75Z"></path>
+    </svg>
+    <svg id="theme-icon-dark" class="hidden" width="24" height="24" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <path d="M12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10Zm0 8a3 3 0 1 1 0-6 3 3 0 0 1 0 6Z"></path>
+    </svg>
+  </button>
+
   {{ if site.Menus.main }}
     <ul>
       <li>
@@ -25,4 +36,19 @@
     </ul>
   {{ end }}
 </header>
+
+<script>
+  const themeToggle = document.getElementById('theme-toggle');
+  const themeIconLight = document.getElementById('theme-icon-light');
+  const themeIconDark = document.getElementById('theme-icon-dark');
+
+  themeToggle.addEventListener('click', () => {
+    document.body.classList.toggle('dark-mode');
+    const isDarkMode = document.body.classList.contains('dark-mode');
+
+    themeIconLight.classList.toggle('hidden', isDarkMode);
+    themeIconDark.classList.toggle('hidden', !isDarkMode);
+  });
+</script>
+
 {{ partial "menu.html" . }}
